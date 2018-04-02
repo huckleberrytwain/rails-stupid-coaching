@@ -1,4 +1,4 @@
-class QuestionsController < ActionController::Base
+class QuestionsController < ApplicationController
 
   ANSWERS = {
     1 => "Great",
